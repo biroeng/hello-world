@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h2> Thankyou, Happy Learning with Udemy Albert </h2>
+   <h2> Thankyou, Happy Learning with Udemy Albert,Going to section 4 </h2>
 
 <h3> Make its period polling with hock </h3>
 </form>
